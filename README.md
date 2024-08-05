@@ -4,6 +4,7 @@ The purpose of this project is to apply the Exploratory Data Analysis (EDA) skil
 **Lead Instructor**: Eng. Esraa Madhi, Data scientist | AI Educator
 
 **Teaching Assistant**: Refal Alboqami, Data scientist
+
 **Teaching Assistant**: Yasser Almubaddil, Data scientist
 
 
