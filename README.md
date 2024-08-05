@@ -17,40 +17,40 @@ The goal is to understand the data structure which would help in finding potenti
 - We will explain our work through the use of each dataset
 
 ### Dataset 1- Times Higher Education:
-### Dataset 1- Times Higher Education:
-******- Data Profiling:******
-****  - Descriptive analysis:****
-    -  This dataset consists of three of 1591 rows and 20 Columns.
-    -  Values types are Float and Objects.
-****  -  7 Dimentions:****
-**    - Reliablity:** Yes, the data that was provided in Kaggle is reliable and was collected from the original source which is “Times Higher Education”. This is considered a reliable source because they have been providing university ranking since 2004 and they have been collecting data via surveys and academic institutions. https://www.timeshighereducation.com/rankings/impact/overall/2023
+- Data Profiling:
+	- Descriptive analysis:
+    		-  This dataset consists of three of 1591 rows and 20 Columns.
+    		-  Values types are Float and Objects.
+	-  7 Dimentions:
+		- Reliablity:** Yes, the data that was provided in Kaggle is reliable and was collected from the original source which is “Times Higher Education”. This is considered a reliable source because they have been providing university ranking since 2004 and they have been collecting data via surveys and academic institutions. https://www.timeshighereducation.com/rankings/impact/overall/2023
  
-**    - Timeliness: **The data is not up to date. It is 2023 data and there is 2024 data but it is not open therefore we can't use it. There is a solution that we use data scraping techniques but it is out of our expertise.
+		- Timeliness: The data is not up to date. It is 2023 data and there is 2024 data but it is not open therefore we can't use it. There is a solution that we use data scraping techniques but it is out of our expertise.
 
-**    - Consistency:** Yes, the data is consistent throughout all the columns, and the data are the same as the data source.
+		- Consistency: Yes, the data is consistent throughout all the columns, and the data are the same as the data source.
 
-  **  - Relevance(Sample Selection):** Yes, the given data is relevant and can be used to answer the questions, because the questions ask about universities global ranking.
-  **  -  Relevance(Variable Selection):** Dropped the ‘ranking-institution-title href’ column because it contains the universities website links and it is irrelevant.
+  		- Relevance(Sample Selection): Yes, the given data is relevant and can be used to answer the questions, because the questions ask about universities global ranking.
+  		-  Relevance(Variable Selection): Dropped the ‘ranking-institution-title href’ column because it contains the universities website links and it is irrelevant.
 
-  **  - Uniqueness:** Yes, the data is unique, there are no duplicated rows.
+  		- Uniqueness: Yes, the data is unique, there are no duplicated rows.
 
-  **  - Completeness:** Every column has missing values except ‘Rank’, ‘University Name’ and ‘scores’.
+  		- Completeness: Every column has missing values except ‘Rank’, ‘University Name’ and ‘scores’.
 
-  **  - Check Accuracy** The data types were not uniformed. 
+  		- Check Accuracy: The data types were not uniformed. 
  
-****- Data Cleaning:****
-  - Renamed all the columns to shorter and more optimized names.
-  - And converted all of the 8 scores columns to strings becuase they had floats and strings as values.
-  - Removes the +, =, - signs from the Rank column.
-  - Removed the - sign from the 8 scores columns from values that had range such as 7.9-53.
-  - Did the same for Total scores column.
-  - Removed the \n from the name of the universities.
-  - Converted the 8 scores columns and Total scores to Floats and the Rank to int.
-  -  Filled the missing values in the column location from locations from the Central World dataset.
-  -  Filled the remaining values of location with Unknown!.
-  -  Fixed the Column Rank because it skipped values such as 1, 2, 3, 3, 5 and added the solution to a new column called Rank_new.
+ - Data Cleaning:
+	- Renamed all the columns to shorter and more optimized names.
+	- And converted all of the 8 scores columns to strings becuase they had floats and strings as values.
+	- Removes the +, =, - signs from the Rank column.
+	- Removed the - sign from the 8 scores columns from values that had range such as 7.9-53.
+	- Did the same for Total scores column.
+	- Removed the \n from the name of the universities.
+	- Converted the 8 scores columns and Total scores to Floats and the Rank to int.
+	- Filled the missing values in the column location from locations from the Central World dataset.
+	- Filled the remaining values of location with Unknown!.
+	- Fixed the Column Rank because it skipped values such as 1, 2, 3, 3, 5 and added the solution to a new column called Rank_new.
+   
 - Did the data answered our questions?
-  No, the data answered only 4 out of 5 questions.
+  	No, the data answered only 4 out of 5 questions.
 
 
 ### Dataset 2- Center World University Ranking:
