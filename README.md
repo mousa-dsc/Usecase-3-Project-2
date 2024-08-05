@@ -53,7 +53,6 @@ The goal is to understand the data structure which would help in finding potenti
   	Yes, but only answered 4 out of 5 questions.
         Which are:
   
-  ![Uploading Screenshot 2024-08-06 024932.png…]()
 
 
 
