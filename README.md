@@ -68,15 +68,20 @@ The goal is to understand the data structure which would help in finding potenti
 - Consistency:
   - Yes, data is consistent with the data source.
 - Relevance: 
-  - sample selections: Yes, the data provided is relevant to the objective questions because the questions ask about global ranking and the data source considered      to be world wide ranking.
-  - Relevance: 
-    Variable selections: We will not remove any of the columns because we need all column  to answer our objective questions.
-- Uniqueness: the data contains no duplicated rows,The rank columns can have duplicate values in the possibility 2 universities achieved the same rank, therefore       we will not consider it an issue.
-- Completeness: There are zero null values but we null values with dashes.
-- Accuracy : We checked the accuracy and we found some data types are string while they are representing a number (int), so we changed them. 
-- Data Cleaning: rank type is stirng so we convrted to int with out any string .from (1Top 0.1%) to (1), and in University Name from (Stanford University
+  - sample selections:
+   - Yes, the data provided is relevant to the objective questions because the questions ask about global ranking and the data source considered      to be world 	wide ranking.
+  - Variable selections:
+   - We will not remove any of the columns because we need all column  to answer our objective questions.
+- Uniqueness:
+   - the data contains no duplicated rows,The rank columns can have duplicate values in the possibility 2 universities achieved the same rank, therefore       we will not consider it an issue.
+- Completeness:
+   - There are zero null values but we null values with dashes.
+- Accuracy:
+   - We checked the accuracy and we found some data types are string while they are representing a number (int), so we changed them. 
+- Data Cleaning:
+   - rank is stirng so we convrted to int with out any string ,from (1Top 0.1%) to (1), and in University Name from (Stanford University
   Education: A+; Employability: A+; Faculty: A+; Research: A+) to (Stanford University) 
-- Did the data answered our questions? yes
+- Did the data answered our questions? yes,answered all questions.
   
 ### Dataset 3- Shngahai Ranking:
 #### Data Profiling:
