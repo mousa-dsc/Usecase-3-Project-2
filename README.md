@@ -100,18 +100,20 @@ Here are typical steps involved in checking data quality:
 1. Reliability:
 the data that was provided in Kaggle is reliable and was collected from the original source which is “Shunghai Ranking”. 
 This is considered a reliable source because they have been providing university ranking since 2003.
+https://www.shanghairanking.com/rankings/arwu/2022
 
-3. Timeliness:
+2. Timeliness:
 The dataset is from 2022, and due to no available extraction or collection source to get the most recent release, we will have to continue with the 2022 version to answer our problem statements.
 
-4. Consistency:
+3. Consistency:
 The data seems to be consistent from the get go, no further modifications seem to be required in this regard.
 
-5. Relevance:
+4. Relevance:
 The dataset is not relevant to most of our problem statements, however, it can answer a few of the questions.
 columns are not useful to us that will be dropped:
    - LOGO: images
    - University Details: URL’s
+
 Note: If we add a location column, it can answer more questions for us, which is what we did in an attempt to cover as much data as possible.
 
 5. Uniqueness:
@@ -139,7 +141,7 @@ yes, 3 questions.
 
 
 ### Team Members:
-- Raghad
+- Raghad Almalki
 - Salman
 - Mousa
 - Mohammed
