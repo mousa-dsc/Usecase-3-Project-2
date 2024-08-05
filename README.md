@@ -50,7 +50,11 @@ The goal is to understand the data structure which would help in finding potenti
 	- Fixed the Column Rank because it skipped values such as 1, 2, 3, 3, 5 and added the solution to a new column called Rank_new.
    
 - Did the data answered our questions?
-  	No, the data answered only 4 out of 5 questions.
+  	Yes, but only answered 4 out of 5 questions.
+        Which are:
+  
+  ![Uploading Screenshot 2024-08-06 024932.png…]()
+
 
 
 ### Dataset 2- Center World University Ranking:
@@ -82,7 +86,9 @@ The goal is to understand the data structure which would help in finding potenti
 - Data Cleaning:
    - rank is stirng so we convrted to int with out any string ,from (1Top 0.1%) to (1), and in University Name from (Stanford University
   Education: A+; Employability: A+; Faculty: A+; Research: A+) to (Stanford University) 
-- Did the data answered our questions? yes,answered all questions.
+- Did the data answered our questions?
+     yes, the data answered all of our ibjective questions.
+     Which are:
   
 ### Dataset 3- Shngahai Ranking:
 #### Data Profiling:
@@ -133,7 +139,8 @@ The data requires changes when it comes to data types, some columns need to be c
 - making a list of unique names from the 'world' dataframe to find them in the shanghai dataframe so we can match locations
 
 #### Did the data answered our questions?
-yes, 3 questions.
+     Yes, but only answered 3 out of 5 questions.
+        Which are:
 
 
 ### What is the best to use for further analysis?
