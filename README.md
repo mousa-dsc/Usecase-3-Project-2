@@ -1,5 +1,16 @@
 # Usecase- Project-2
-Our project is about doing an expoloratory data analysis (EDA) which is a technique or a great method to extract the meaning of our data and invistigate about it.
+The purpose of this project is to apply the Exploratory Data Analysis (EDA) skills we learned as part of the Data Science and Machine Learning Bootcamp offered by Tuwaiq.
+
+Lead Instructor: Eng. Esraa Madhi, Data scientist | AI Educator
+
+Teaching Assistant: Refal Alboqami, Data scientist
+Teaching Assistant: Yasser Almubaddil, Data scientist
+
+
+The purpose of Exploratory Data Analysis (EDA) is to formulate an understanding of a dataset, listen to what the data has to say, and have a feel of what it represents to tackle business problems through extracting insights.
+
+The goal is to understand the data structure which would help in finding potential variables to develop Machine Learning models, look for data quality issues and fix them, while also looking for more questions that would benefit us.
+
 ## Datasets Provided:
 - There are 3 datasets that has been given to us to do an EDA and problem statements to answer them through our data.
 - We will explain our work through the use of each dataset
