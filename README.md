@@ -110,9 +110,8 @@ The data seems to be consistent from the get go, no further modifications seem t
 5. Relevance:
 The dataset is not relevant to most of our problem statements, however, it can answer a few of the questions.
 columns are not useful to us that will be dropped:
-1.	LOGO: images
-2.	University Details: URL’s
-
+   - LOGO: images
+   - University Details: URL’s
 Note: If we add a location column, it can answer more questions for us, which is what we did in an attempt to cover as much data as possible.
 
 5. Uniqueness:
