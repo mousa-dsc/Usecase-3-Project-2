@@ -89,7 +89,7 @@ The goal is to understand the data structure which would help in finding potenti
 - Descriptive Analysis:
   - Shanghai Academic Ranking of World Universities (ARWU)
   - 1000 Rows
-	- 6 columns
+  - 6 columns
   - Data consists of a mix of Strings and floats types
   - No Null values
 
@@ -125,10 +125,15 @@ The dataset has no null values and all cells are filled.
 The data requires changes when it comes to data types, some columns need to be changed into an integer.
 
 #### Data Cleaning:
-
-
+- dropping two columns: LOGO column and University Detail column. 
+- unifying Ranking column values to have integers only and dropping old Ranking column
+- unifying 'National/Regional Rank' column values to have integers only and dropping old 'National/Regional Rank' column
+- making a dictionary from 'University Names_new' and 'Location' columns
+- making a list of unique names from the 'world' dataframe to find them in the shanghai dataframe so we can match locations
 
 #### Did the data answered our questions?
+yes, 3 questions.
+
 
 ### What is the best to use for further analysis?
 
