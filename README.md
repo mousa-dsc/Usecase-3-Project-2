@@ -63,6 +63,7 @@ The goal is to understand the data structure which would help in finding potenti
     Null values* are present, 1562 Rows affected
 - Reliability:
   - Yes source is reliable and data was collected from the data source itself: World University Rankings 2024 | Global 2000 List | CWUR
+  - https://cwur.org/2023.php
 - Timeliness:
   - The data provided  in kaggle is up to date but just about a year ago, which is 2023.
 - Consistency:
