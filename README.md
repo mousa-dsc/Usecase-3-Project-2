@@ -19,8 +19,8 @@ The goal is to understand the data structure which would help in finding potenti
 ### Dataset 1- Times Higher Education:
 - Data Profiling:
 	- Descriptive analysis:
-    		-  This dataset consists of three of 1591 rows and 20 Columns.
-    		-  Values types are Float and Objects.
+		-  This dataset consists of three of 1591 rows and 20 Columns.
+		-  Values types are Float and Objects.
 	-  7 Dimentions:
 		- Reliablity:** Yes, the data that was provided in Kaggle is reliable and was collected from the original source which is “Times Higher Education”. This is considered a reliable source because they have been providing university ranking since 2004 and they have been collecting data via surveys and academic institutions. https://www.timeshighereducation.com/rankings/impact/overall/2023
  
