@@ -52,7 +52,7 @@ The goal is to understand the data structure which would help in finding potenti
 - Did the data answered our questions?
      -Yes, but only answered 4 out of 5 questions.
         Which are:
-         Q1) Which universities are ranked in the top 10 globally?
+         ![Q1) Which universities are ranked in the top 10 globally?](CWUR-1.png)
          Q2) Which universities are ranked in the top 10 for employment outcomes?
          Q3)  What positions do universities in Saudi Arabia hold within the global rankings?
   
@@ -148,10 +148,9 @@ The data requires changes when it comes to data types, some columns need to be c
 #### Did the data answered our questions?
      -Yes, but only answered 3 out of 5 questions.
         Which are:
-	 
-        ![Q1) Which universities are ranked in the top 10 globally?](CWUR-1.png)
-         Q3)  What positions do universities in Saudi Arabia hold within the global rankings?
-         Q5) Is there a correlation between national and global university rankings, and based on this information, can you recommend a country that 
+	 - Q1) Which universities are ranked in the top 10 globally?
+         - Q3)  What positions do universities in Saudi Arabia hold within the global rankings?
+         - Q5) Is there a correlation between national and global university rankings, and based on this information, can you recommend a country that 
              appears to have a high concentration of top-ranked universities?
 
 
