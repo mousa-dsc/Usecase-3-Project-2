@@ -120,20 +120,20 @@ __________________________________________________________
 
 1. **Which universities are ranked in the top 10 globally?**
    
-   <img src='times-1.png' alt='Top 10 Global Universities' width='380'>
+   <img src='world-1.png' alt='Top 10 Global Universities' width='380'>
 
 2. **Which universities are ranked in the top 10 for employment outcomes**
 
-   <img src='times-2.png' alt='Top 10 Global Universities' width='380'>
+   <img src='world-2.png' alt='Top 10 Global Universities' width='380'>
   
 3. **What positions do universities in Saudi Arabia hold within the global rankings?**
     
-   <img src='times-3.png' alt='Top 10 Global Universities' width='380'>
+   <img src='world-3.png' alt='Top 10 Global Universities' width='380'>
 
 4. **Considering various factors (variables) such as employment rankings, research rankings, and others, which has the most significant impact on a 
             university's overall ranking?**
    
-   <img src='times-4.png' alt='Top 10 Global Universities' width='380'>
+   <img src='world-4.png' alt='Top 10 Global Universities' width='380'>
 
 5.  **Is there a correlation between national and global university rankings, and based on this information, can you recommend a country that 
              appears to have a high concentration of top-ranked universities?**
