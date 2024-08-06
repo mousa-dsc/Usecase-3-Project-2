@@ -16,7 +16,9 @@ The goal is to understand the data structure which would help in finding potenti
 - There are 3 datasets that has been given to us to do an EDA and problem statements to answer them through our data.
 - We will explain our work through the use of each dataset
 
+
 ____________________________________________________
+
 
 ### Dataset 1- Times Higher Education:
 - Data Profiling:
@@ -82,7 +84,9 @@ Evidence: https://www.timeshighereducation.com/world-university-rankings/impact-
 
 The Times Impact ranking does not provide any clue about the national rank, only the global rank.
 
+
 __________________________________________________________
+
    
 ### Dataset 2- Center World University Ranking:
 - Data Profiling:
@@ -138,10 +142,12 @@ __________________________________________________________
 5.  **Is there a correlation between national and global university rankings, and based on this information, can you recommend a country that 
              appears to have a high concentration of top-ranked universities?**
 
-       <img src='times-5.png' alt='Top 10 Global Universities' width='380'>
+       <img src='world-5.png' alt='Top 10 Global Universities' width='380'>
+
 
 
 _________________________________________
+
 ### Dataset 3- Shngahai Ranking:
 #### Data Profiling:
 - Descriptive Analysis:
@@ -191,12 +197,26 @@ The data requires changes when it comes to data types, some columns need to be c
 - making a list of unique names from the 'world' dataframe to find them in the shanghai dataframe so we can match locations
 
 #### Did the data answered our questions?
-     -Yes, but only answered 3 out of 5 questions.
-        Which are:
-	 - Q1) Which universities are ranked in the top 10 globally?
-         - Q3)  What positions do universities in Saudi Arabia hold within the global rankings?
-         - Q5) Is there a correlation between national and global university rankings, and based on this information, can you recommend a country that 
-             appears to have a high concentration of top-ranked universities?
+**Yes**, but it answered 3 out of the 5 questions. Here are the details:
+1. **Which universities are ranked in the top 10 globally?**
+   
+   <img src='sh-1.png' alt='Top 10 Global Universities' width='380'>
+
+3. **Which universities are ranked in the top 10 for employment outcomes**
+
+   <img src='wsh-3.png' alt='Top 10 Global Universities' width='380'>
+  
+5. **What positions do universities in Saudi Arabia hold within the global rankings?**
+    
+   <img src='sh-51.png' alt='Top 10 Global Universities' width='380'>
+
+   <img src='sh-52.png' alt='Top 10 Global Universities' width='380'>
+
+   <img src='sh-53.png' alt='Top 10 Global Universities' width='380'>
+
+
+
+____________________________________________________________
 
 
 ### What is the best to use for further analysis?
@@ -205,6 +225,7 @@ Moreover, datasets such as Times Impact inspired us to ask more related question
 
 
 
+______________________________
 ### Team Members:
 - Raghad Almalki
 - Salman
