@@ -219,7 +219,7 @@ The data requires changes when it comes to data types, some columns need to be c
 ____________________________________________________________
 
 
-### What is the best to use for further analysis?
+### What is the best datatset to use for further analysis?
 It depends on the factors of each dataset that the entity or business wants to deal with based on their goals, but from our side and depending on the objective questions, we will choose the CWUR dataset because it answers all of them and gives us insight.
 Moreover, datasets such as Times Impact inspired us to ask more related questions. 
 
