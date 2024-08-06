@@ -57,17 +57,18 @@ ____________________________________________________
 
 1. **Q1) Which universities are ranked in the top 10 globally?**
    
-   <img src='CWUR-1.png' alt='Top 10 Global Universities'>
+   <img src='CWUR-1.png' alt='Top 10 Global Universities' width='40'>
 
-2. **Q2) Which universities are ranked in the top 10 for employment outcomes?**
+2. **Q2) Which universities are ranked in the top 10 for employment outcomes**
 
-   <img src='CWUR-2.png' alt='Top 10 Global Universities'>
+   <img src='CWUR-2.png' alt='Top 10 Global Universities' width='40'>
   
 3. **Q3) What positions do universities in Saudi Arabia hold within the global rankings?**
 4. 
-   <img src='CWUR-3.png' alt='Top 10 Global Universities'>
+   <img src='CWUR-3.png' alt='Top 10 Global Universities' width='40'>
 
-6. **Q4) [Insert the question here if needed]**
+6. **Q4) Considering various factors (variables) such as employment rankings, research rankings, and others, which has the most significant impact on a 
+            university's overall ranking?**
 
 Accourding to the data source website, they said the follwing: 
 SDG 17 accounts for 22 per cent of the total score, while the other SDGs each carry a weighting of 26 per cent.
@@ -76,7 +77,8 @@ Evidence: https://www.timeshighereducation.com/world-university-rankings/impact-
  ''Any university that provides data on SDG 17 and at least three other SDGs is included in the overall ranking''.
  ''A university’s total score in a given year is calculated by combining its score in SDG 17 with its best three results on the remaining 16 SDGs''.
 
-7.  **Q5) [Insert the question here if needed]**
+7.  **Q5) Is there a correlation between national and global university rankings, and based on this information, can you recommend a country that 
+             appears to have a high concentration of top-ranked universities?**
 
 The Times Impact ranking does not provide any clue about the national rank, only the global rank.
 
