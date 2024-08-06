@@ -16,6 +16,8 @@ The goal is to understand the data structure which would help in finding potenti
 - There are 3 datasets that has been given to us to do an EDA and problem statements to answer them through our data.
 - We will explain our work through the use of each dataset
 
+____________________________________________________
+
 ### Dataset 1- Times Higher Education:
 - Data Profiling:
 	- Descriptive analysis:
@@ -49,14 +51,37 @@ The goal is to understand the data structure which would help in finding potenti
 	- Filled the remaining values of location with Unknown!.
 	- Fixed the Column Rank because it skipped values such as 1, 2, 3, 3, 5 and added the solution to a new column called Rank_new.
    
-- Did the data answered our questions?
-     -Yes, but only answered 4 out of 5 questions.
-        Which are:
-         ![Q1) Which universities are ranked in the top 10 globally?](CWUR-1.png)
-         Q2) Which universities are ranked in the top 10 for employment outcomes?
-         Q3)  What positions do universities in Saudi Arabia hold within the global rankings?
+#### Did the Data Answer Our Questions?
+
+**Yes**, the data answered 4 out of 5 questions. Here are the details:
+
+1. **Q1) Which universities are ranked in the top 10 globally?**
+   
+   <img src='CWUR-1.png' alt='Top 10 Global Universities'>
+
+2. **Q2) Which universities are ranked in the top 10 for employment outcomes?**
+
+   <img src='CWUR-2.png' alt='Top 10 Global Universities'>
   
-  
+3. **Q3) What positions do universities in Saudi Arabia hold within the global rankings?**
+4. 
+   <img src='CWUR-3.png' alt='Top 10 Global Universities'>
+
+6. **Q4) [Insert the question here if needed]**
+
+Accourding to the data source website, they said the follwing: 
+SDG 17 accounts for 22 per cent of the total score, while the other SDGs each carry a weighting of 26 per cent.
+Evidence: https://www.timeshighereducation.com/world-university-rankings/impact-rankings-2024-methodology
+ SDG 17 has more privilage for taking its rank, it is the parthnership for the goals
+ ''Any university that provides data on SDG 17 and at least three other SDGs is included in the overall ranking''.
+ ''A university’s total score in a given year is calculated by combining its score in SDG 17 with its best three results on the remaining 16 SDGs''.
+
+7.  **Q5) [Insert the question here if needed]**
+
+The Times Impact ranking does not provide any clue about the national rank, only the global rank.
+
+__________________________________________________________
+   
 ### Dataset 2- Center World University Ranking:
 - Data Profiling:
   - Descriptive Analysis
