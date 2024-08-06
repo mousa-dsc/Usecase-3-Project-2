@@ -55,19 +55,19 @@ ____________________________________________________
 
 **Yes**, the data answered 4 out of 5 questions. Here are the details:
 
-1. **Q1) Which universities are ranked in the top 10 globally?**
+1. **Which universities are ranked in the top 10 globally?**
    
    <img src='times-1.png' alt='Top 10 Global Universities' width='360'>
 
-2. **Q2) Which universities are ranked in the top 10 for employment outcomes**
+2. **Which universities are ranked in the top 10 for employment outcomes**
 
    <img src='times-2.png' alt='Top 10 Global Universities' width='360'>
   
-3. **Q3) What positions do universities in Saudi Arabia hold within the global rankings?**
+3. **What positions do universities in Saudi Arabia hold within the global rankings?**
     
    <img src='times-3.png' alt='Top 10 Global Universities' width='360'>
 
-6. **Q4) Considering various factors (variables) such as employment rankings, research rankings, and others, which has the most significant impact on a 
+4. **Considering various factors (variables) such as employment rankings, research rankings, and others, which has the most significant impact on a 
             university's overall ranking?**
 
 Accourding to the data source website, they said the follwing: 
@@ -77,7 +77,7 @@ Evidence: https://www.timeshighereducation.com/world-university-rankings/impact-
  ''Any university that provides data on SDG 17 and at least three other SDGs is included in the overall ranking''.
  ''A university’s total score in a given year is calculated by combining its score in SDG 17 with its best three results on the remaining 16 SDGs''.
 
-7.  **Q5) Is there a correlation between national and global university rankings, and based on this information, can you recommend a country that 
+5.  **Is there a correlation between national and global university rankings, and based on this information, can you recommend a country that 
              appears to have a high concentration of top-ranked universities?**
 
 The Times Impact ranking does not provide any clue about the national rank, only the global rank.
@@ -118,24 +118,24 @@ __________________________________________________________
 
 **Yes**, the data answered all of the 5 questions. Here are the details:
 
-1. **Q1) Which universities are ranked in the top 10 globally?**
+1. **Which universities are ranked in the top 10 globally?**
    
    <img src='-1.png' alt='Top 10 Global Universities' width='360'>
 
-2. **Q2) Which universities are ranked in the top 10 for employment outcomes**
+2. **Which universities are ranked in the top 10 for employment outcomes**
 
    <img src='times-2.png' alt='Top 10 Global Universities' width='360'>
   
-3. **Q3) What positions do universities in Saudi Arabia hold within the global rankings?**
+3. **What positions do universities in Saudi Arabia hold within the global rankings?**
     
    <img src='times-3.png' alt='Top 10 Global Universities' width='360'>
 
-4. **Q4) Considering various factors (variables) such as employment rankings, research rankings, and others, which has the most significant impact on a 
+4. **Considering various factors (variables) such as employment rankings, research rankings, and others, which has the most significant impact on a 
             university's overall ranking?**
    
    <img src='times-4.png' alt='Top 10 Global Universities' width='360'>
 
-6.  **Q5) Is there a correlation between national and global university rankings, and based on this information, can you recommend a country that 
+5.  **Is there a correlation between national and global university rankings, and based on this information, can you recommend a country that 
              appears to have a high concentration of top-ranked universities?**
 
        <img src='times-5.png' alt='Top 10 Global Universities' width='360'>
