@@ -204,7 +204,7 @@ The data requires changes when it comes to data types, some columns need to be c
 
 3. **Which universities are ranked in the top 10 for employment outcomes**
 
-   <img src='wsh-3.png' alt='Top 10 Global Universities' width='380'>
+   <img src='wsh-2.png' alt='Top 10 Global Universities' width='380'>
   
 5. **What positions do universities in Saudi Arabia hold within the global rankings?**
     
