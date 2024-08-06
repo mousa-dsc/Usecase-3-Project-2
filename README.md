@@ -57,15 +57,15 @@ ____________________________________________________
 
 1. **Q1) Which universities are ranked in the top 10 globally?**
    
-   <img src='CWUR-1.png' alt='Top 10 Global Universities' width='160'>
+   <img src='CWUR-1.png' alt='Top 10 Global Universities' width='360'>
 
 2. **Q2) Which universities are ranked in the top 10 for employment outcomes**
 
-   <img src='CWUR-2.png' alt='Top 10 Global Universities' width='160'>
+   <img src='CWUR-2.png' alt='Top 10 Global Universities' width='360'>
   
 3. **Q3) What positions do universities in Saudi Arabia hold within the global rankings?**
 4. 
-   <img src='CWUR-3.png' alt='Top 10 Global Universities' width='160'>
+   <img src='CWUR-3.png' alt='Top 10 Global Universities' width='360'>
 
 6. **Q4) Considering various factors (variables) such as employment rankings, research rankings, and others, which has the most significant impact on a 
             university's overall ranking?**
